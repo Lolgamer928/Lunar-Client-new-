@@ -9,7 +9,7 @@ THIS IS IN **DEVELOPEMENT**
 # Lunar-Client-new-
 Lunar Client is a PvP Client 
 
-# Uptade
+# Update
 
 Adding Texture
 
