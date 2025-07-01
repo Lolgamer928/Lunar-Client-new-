@@ -1,13 +1,18 @@
-# Lunar-Client-new-
-Lunar Client is a PvP Client
+# DISCLAMER
 
-Lunar Client needs a premium Minecraft account crack that does not require a premium Minecraft account and can be used in launchers such as TLauncher or even the Official Minecraft Launcher.
-# Doyoda
-So I wanted to modify and add mods i want player from pojavlaucher to play each either
+THIS IS IN **DEVELOPEMENT**
+
+
+
+
+
+# Lunar-Client-new-
+Lunar Client is a PvP Client 
 
 # Uptade
 
 Adding Texture
+
 Made Nametags works
 
 # Credit
