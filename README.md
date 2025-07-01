@@ -26,6 +26,9 @@ And Modify By Doyoda
 
 ![Screenshot](Images/Screenshot_2025-07-01-23-47-37-912.jpeg)
 
+as you can see i changed menu paranoma
+
+
 # Step one
 
 Download LC.zip
